@@ -1,4 +1,6 @@
 # JSON Server [![](https://travis-ci.org/typicode/json-server.svg)](https://travis-ci.org/typicode/json-server) [![](https://badge.fury.io/js/json-server.svg)](http://badge.fury.io/js/json-server) [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/typicode/json-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjson-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjson-server?ref=badge_shield)
+
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
 
@@ -411,3 +413,6 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 ## License
 
 MIT - [Typicode](https://github.com/typicode)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjson-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjson-server?ref=badge_large)
